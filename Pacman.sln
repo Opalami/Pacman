@@ -1,6 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
+# 
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pacman", "Pacman.csproj", "{6F7EDA95-A484-4B9D-8D2A-1C97F1907E80}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lab 1 MDK 01.01 part 2", "..\..\..\2 курс\МДК 01.01 ч2\Отчеты Лаб раб\Lab 1 MDK 01.01 part 2\Lab 1 MDK 01.01 part 2.csproj", "{859E95C8-0FE7-4BE4-A60C-2FCE1E32308F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -12,5 +15,10 @@ Global
 		{6F7EDA95-A484-4B9D-8D2A-1C97F1907E80}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F7EDA95-A484-4B9D-8D2A-1C97F1907E80}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F7EDA95-A484-4B9D-8D2A-1C97F1907E80}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F7EDA95-A484-4B9D-8D2A-1C97F1907E80}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{859E95C8-0FE7-4BE4-A60C-2FCE1E32308F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{859E95C8-0FE7-4BE4-A60C-2FCE1E32308F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{859E95C8-0FE7-4BE4-A60C-2FCE1E32308F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{859E95C8-0FE7-4BE4-A60C-2FCE1E32308F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

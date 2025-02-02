@@ -12,3 +12,19 @@
 /Users/maksimbondarev/Documents/Мои проекты/Pacman/obj/Debug/net9.0/Pacman.pdb
 /Users/maksimbondarev/Documents/Мои проекты/Pacman/obj/Debug/net9.0/Pacman.genruntimeconfig.cache
 /Users/maksimbondarev/Documents/Мои проекты/Pacman/obj/Debug/net9.0/ref/Pacman.dll
+/Users/maksimbondarev/Documents/Мои проекты/Pacman/obj/Debug/net9.0/Pacman.sourcelink.json
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/bin/Debug/net9.0/Pacman
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/bin/Debug/net9.0/Pacman.deps.json
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/bin/Debug/net9.0/Pacman.runtimeconfig.json
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/bin/Debug/net9.0/Pacman.dll
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/bin/Debug/net9.0/Pacman.pdb
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.AssemblyInfoInputs.cache
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.AssemblyInfo.cs
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.csproj.CoreCompileInputs.cache
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.sourcelink.json
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.dll
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/refint/Pacman.dll
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.pdb
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/Pacman.genruntimeconfig.cache
+/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/Debug/net9.0/ref/Pacman.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/maksimbondarev/Documents/Мои проекты/Pacman/Pacman.csproj": {}
+    "/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/Pacman.csproj": {}
   },
   "projects": {
-    "/Users/maksimbondarev/Documents/Мои проекты/Pacman/Pacman.csproj": {
+    "/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/Pacman.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/maksimbondarev/Documents/Мои проекты/Pacman/Pacman.csproj",
+        "projectUniqueName": "/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/Pacman.csproj",
         "projectName": "Pacman",
-        "projectPath": "/Users/maksimbondarev/Documents/Мои проекты/Pacman/Pacman.csproj",
+        "projectPath": "/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/Pacman.csproj",
         "packagesPath": "/Users/maksimbondarev/.nuget/packages/",
-        "outputPath": "/Users/maksimbondarev/Documents/Мои проекты/Pacman/obj/",
+        "outputPath": "/Users/maksimbondarev/Documents/Мои проекты/C# projects/Pacman/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/maksimbondarev/.nuget/NuGet/NuGet.Config"
@@ -36,7 +36,7 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
+          "auditMode": "direct"
         },
         "SdkAnalysisLevel": "9.0.100"
       },
@@ -59,7 +59,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/Users/maksimbondarev/.dotnet/sdk/9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.102/PortableRuntimeIdentifierGraph.json"
         }
       }
     }

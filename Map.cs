@@ -22,13 +22,35 @@ public class Map
         return map;
     }
 
-    public void PrintMap()
+    public void PrintMap(ConsoleColor WallColor = ConsoleColor.White, ConsoleColor StartColor = ConsoleColor.White, ConsoleColor DotColor = ConsoleColor.White)
     {
+        ConsoleColor defaultColor = Console.ForegroundColor;
         for (int i = 0; i < map.GetLength(0); i++)
         {
             for (int j = 0; j < map.GetLength(1); j++)
             {
+                switch (map[i, j])
+                {
+                    case '#':
+                    {
+                        Console.ForegroundColor = WallColor;
+                        break;
+                    }
+                    case '.':
+                    {
+                        Console.ForegroundColor = DotColor;
+                        break;
+                    }
+
+                    case '*':
+                    {
+                        Console.ForegroundColor = StartColor;
+                        break;
+                    }
+                    
+                }
                 Console.Write(map[i, j]);
+                Console.ForegroundColor = defaultColor;
             }
             Console.WriteLine();
         }
